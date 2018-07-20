@@ -1,0 +1,6 @@
+{
+	"task_name":"java.exe",
+	"bat_path":"C:/monitor_service/start.bat",
+	"monitor_time":"10"
+
+}
